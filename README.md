@@ -25,4 +25,4 @@ When we use SVM it is really important to tune the hyperparameters such as C,d a
 
 After training the model,  we make the HeatMap for Test Accuracies and then we have an evaluation model..
 
-The Heatmap figure shows that  the accuracy will decrease when degree of Polynomial kernel increased,also it seems when d is 1 we have better accuracy while increasing the C value and it can lead to overfitting. So based on the above figure the best C will be 0.001 and degree will be 1 and the gamma is 10. when we calculate the accuracy It will be around 96%.
+The Heatmap figure shows that  the accuracy will decrease when degree of Polynomial kernel increased,also it seems when d is 1 we have better accuracy while increasing the C value and it can lead to overfitting. So based on the above figure the best C will be 0.001 and degree will be 1 and the gamma is 10. When we calculate the accuracy, it will be around 96%.
